@@ -1,0 +1,620 @@
+2023-01-04 19:28:35,975[level-ERROR][root]:error verify:  F0383080A - BCF449 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "System.Data.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception: The system cannot find the file specified\r\n   --- End of inner exception stack trace ---\r\n   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)\r\n   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)\r\n   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)\r\n   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)\r\n   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)\r\n   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)\r\n   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)\r\n   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)\r\n   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)\r\n   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)\r\n   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)\r\n   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)\r\n   at System.Data.SqlClient.SqlConnection.Open()\r\n   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)\r\n   --- End of inner exception stack trace ---\r\n   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)\r\n   at System.Data.EntityClient.EntityConnection.Open()\r\n   at System.Data.Objects.ObjectContext.EnsureConnection()\r\n   at System.Data.Objects.ObjectContext.ExecuteStoreCommand(String commandText, Object[] parameters)\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.masterDBACEntities.OnContextCreated() in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\masterDBACEntities.cs:line 696\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.masterDBACEntities..ctor() in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\masterDBACEntities.cs:line 504\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.Vtarjetas.verificaParqueoEntradaPlaca(String Card, String placa) in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\Vtarjetas.cs:line 899", "Resultado": false}
+2023-01-04 19:41:05,950[level-ERROR][root]:error verify:  4852065 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "System.Data.EntityException: The underlying provider failed on Open. ---> System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception: The system cannot find the file specified\r\n   --- End of inner exception stack trace ---\r\n   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)\r\n   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)\r\n   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)\r\n   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)\r\n   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)\r\n   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)\r\n   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)\r\n   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)\r\n   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)\r\n   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)\r\n   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)\r\n   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)\r\n   at System.Data.SqlClient.SqlConnection.Open()\r\n   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)\r\n   --- End of inner exception stack trace ---\r\n   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)\r\n   at System.Data.EntityClient.EntityConnection.Open()\r\n   at System.Data.Objects.ObjectContext.EnsureConnection()\r\n   at System.Data.Objects.ObjectContext.ExecuteStoreCommand(String commandText, Object[] parameters)\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.masterDBACEntities.OnContextCreated() in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\masterDBACEntities.cs:line 696\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.masterDBACEntities..ctor() in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\masterDBACEntities.cs:line 504\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.Vtarjetas.verificaParqueoEntradaPlaca(String Card, String placa) in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\Vtarjetas.cs:line 899", "Resultado": false}
+2023-01-04 19:42:40,914[level-ERROR][root]:error verify:  4852065 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:46:37,092[level-ERROR][root]:error verify:  4852066 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:46:48,595[level-ERROR][root]:error verify:  4852066 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:47:28,403[level-ERROR][root]:error verify:  4852064 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:13,792[level-ERROR][root]:error verify:  4852064 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:16,008[level-ERROR][root]:error verify:  4852064 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:21,389[level-ERROR][root]:error verify:  4852064 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:25,711[level-ERROR][root]:error verify:  4852066 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:34,260[level-ERROR][root]:error verify:  4852065 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:37,522[level-ERROR][root]:error verify:  4852064 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:39,741[level-ERROR][root]:error verify:  4852066 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:41,958[level-ERROR][root]:error verify:  4852064 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:44,173[level-ERROR][root]:error verify:  4852066 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 19:56:46,393[level-ERROR][root]:error verify:  4852065 - CZR263 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 20:42:44,599[level-ERROR][root]:error verify:  4852065 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 20:44:40,909[level-ERROR][root]:error verify:  4852065 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 20:45:33,204[level-ERROR][root]:error verify:  4852065 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 20:46:52,739[level-ERROR][root]:error verify:  0x4a0961 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "System.FormatException: Additional non-parsable characters are at the end of the string.\r\n   at System.ParseNumbers.StringToLong(String s, Int32 radix, Int32 flags, Int32* currPos)\r\n   at System.Convert.ToInt64(String value, Int32 fromBase)\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.Vtarjetas.verificaParqueoEntradaPlaca(String Card, String placa) in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\Vtarjetas.cs:line 898", "Resultado": false}
+2023-01-04 20:47:08,807[level-ERROR][root]:error verify:  0x4a0961 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "System.FormatException: Additional non-parsable characters are at the end of the string.\r\n   at System.ParseNumbers.StringToLong(String s, Int32 radix, Int32 flags, Int32* currPos)\r\n   at System.Convert.ToInt64(String value, Int32 fromBase)\r\n   at BGCOP.CAVTOP.BUSINESSLAYER.Vtarjetas.verificaParqueoEntradaPlaca(String Card, String placa) in g:\\soluciones\\serv\\SRC\\BGCOP.CAVTOP.BUSINESSLAYER\\Vtarjetas.cs:line 898", "Resultado": false}
+2023-01-04 20:48:36,721[level-ERROR][root]:error verify:  0x4a0961 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 20:56:15,532[level-ERROR][root]:error: api <!DOCTYPE html>
+<html>
+    <head>
+        <title>A potentially dangerous Request.Path value was detected from the client (*).</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A potentially dangerous Request.Path value was detected from the client (*).</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (*).<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (*).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9926653
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +55
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.9032.0
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[HttpException]: A potentially dangerous Request.Path value was detected from the client (*).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+-->
+2023-01-04 20:56:45,073[level-ERROR][root]:error: api <!DOCTYPE html>
+<html>
+    <head>
+        <title>A potentially dangerous Request.Path value was detected from the client (*).</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A potentially dangerous Request.Path value was detected from the client (*).</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (*).<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (*).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9926653
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +55
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.9032.0
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[HttpException]: A potentially dangerous Request.Path value was detected from the client (*).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+-->
+2023-01-04 20:57:24,475[level-ERROR][root]:error: api <!DOCTYPE html>
+<html>
+    <head>
+        <title>A potentially dangerous Request.Path value was detected from the client (*).</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A potentially dangerous Request.Path value was detected from the client (*).</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (*).<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (*).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9926653
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +55
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.9032.0
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[HttpException]: A potentially dangerous Request.Path value was detected from the client (*).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+-->
+2023-01-04 20:59:07,860[level-ERROR][root]:error: api <!DOCTYPE html>
+<html>
+    <head>
+        <title>A potentially dangerous Request.Path value was detected from the client (*).</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A potentially dangerous Request.Path value was detected from the client (*).</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (*).<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (*).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9926653
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +55
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.9032.0
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[HttpException]: A potentially dangerous Request.Path value was detected from the client (*).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+-->
+2023-01-04 21:00:34,090[level-ERROR][root]:error: api <!DOCTYPE html>
+<html>
+    <head>
+        <title>A potentially dangerous Request.Path value was detected from the client (*).</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A potentially dangerous Request.Path value was detected from the client (*).</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (*).<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (*).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9926653
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +55
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.9032.0
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[HttpException]: A potentially dangerous Request.Path value was detected from the client (*).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+-->
+2023-01-04 21:01:47,656[level-ERROR][root]:error verify:  0x4a0961 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 21:02:01,461[level-ERROR][root]:error: api <!DOCTYPE html>
+<html>
+    <head>
+        <title>A potentially dangerous Request.Path value was detected from the client (*).</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A potentially dangerous Request.Path value was detected from the client (*).</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (*).<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (*).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9926653
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +55
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.9032.0
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[HttpException]: A potentially dangerous Request.Path value was detected from the client (*).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+-->
+2023-01-04 21:03:15,506[level-ERROR][root]:error: api 0x4a9aa52 - * => <!DOCTYPE html>
+<html>
+    <head>
+        <title>A potentially dangerous Request.Path value was detected from the client (*).</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>A potentially dangerous Request.Path value was detected from the client (*).</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (*).<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (*).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9926653
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +55
+</pre>                      </code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.9032.0
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[HttpException]: A potentially dangerous Request.Path value was detected from the client (*).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+-->
+2023-01-04 21:04:45,422[level-ERROR][root]:error verify:  0x4a9aa52 - QQQAAAXXX => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}
+2023-01-04 21:04:56,312[level-ERROR][root]:error verify:  0x4a0961 - AAA123 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "la tarjeta no se encuentra en la BASE de datos!", "Resultado": false}

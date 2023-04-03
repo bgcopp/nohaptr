@@ -1,0 +1,9 @@
+2023-01-20 18:15:30,548[level-ERROR][root]:error: TCP CNX Could not find module 'plcommpro.dll' (or one of its dependencies). Try using the full path with constructor syntax.
+2023-01-20 18:17:03,437[level-ERROR][root]:error: TCP CNX Could not find module 'C:\ed proteccion\OC\teko\NOHAPTR\r"C:\ed proteccion\OC\teko\NOHAPTR\plcommpro.dll"' (or one of its dependencies). Try using the full path with constructor syntax.
+2023-01-20 18:17:36,987[level-ERROR][root]:error: TCP CNX Unable to connect a device using connstr b'protocol=TCP,ipaddress=192.168.1.201,port=4370,timeout=4000,passwd=': SDK error -307: Connection attempt failed
+2023-01-20 18:19:11,629[level-ERROR][root]:error: TCP CNX Could not find module 'C:\ed proteccion\OC\teko\NOHAPTR\"C:\ed proteccion\OC\teko\NOHAPTR\plcommpro.dll"' (or one of its dependencies). Try using the full path with constructor syntax.
+2023-01-20 18:19:57,653[level-ERROR][root]:error: TCP CNX Could not find module 'C:\ed proteccion\OC\teko\NOHAPTR\"C:\ed proteccion\OC\teko\NOHAPTR\plcommpro.dll"' (or one of its dependencies). Try using the full path with constructor syntax.
+2023-01-20 18:25:48,443[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible
+2023-01-20 18:26:34,670[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-01-20 20:26:07,411[level-ERROR][root]:error verify:  0x4a0961 - AAA123 => {"Error": null, "ErrorInterno": null, "Mensaje": null, "Resultado": false}
+2023-01-20 20:49:37,602[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1

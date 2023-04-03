@@ -1,0 +1,341 @@
+2023-02-24 03:56:42,026[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:56:46,072[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:56:50,108[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:56:54,149[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:56:58,191[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:57:02,224[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:57:06,252[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:57:10,283[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:59:37,941[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:59:41,982[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 03:59:46,018[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:00:26,278[level-ERROR][root]:error: TCP CNX Unable to connect a device using connstr b'protocol=TCP,ipaddress=192.168.0.201,port=4370,timeout=4000,passwd=': SDK error -307: Connection attempt failed
+2023-02-24 04:00:35,026[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:00:39,056[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:00:43,084[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:00:47,139[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:02:39,451[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:02:43,486[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:02:47,516[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:02:51,557[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:02:55,743[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:02:59,771[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:03,800[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:07,834[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:11,870[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:16,034[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:20,069[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:24,099[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:28,137[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:32,173[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:36,341[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:40,365[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:44,405[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:48,435[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:52,471[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:03:56,647[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:04:00,680[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:04:04,716[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:04:08,754[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:04:12,801[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:04:16,962[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:12:42,492[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:12:47,557[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:12:51,582[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:12:56,636[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:13:00,666[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:13:05,701[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:13:09,735[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:13:14,771[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:13:18,960[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:13:24,017[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:13:28,047[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:13:33,084[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:13:37,119[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:13:42,156[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:14:06,599[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:14:11,655[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:14:15,695[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:19:13,605[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:19:18,655[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:19:22,687[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:19:27,733[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:19:31,766[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:19:36,794[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:19:40,857[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:19:45,935[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:19:49,982[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:19:55,030[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:19:59,077[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:20:04,124[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:20:08,146[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:20:13,198[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:20:17,236[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:20:22,339[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:20:26,418[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:20:31,503[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:20:35,589[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:20:40,685[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:20:44,772[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:20:49,860[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:20:53,945[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:20:59,032[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:21:03,109[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:21:08,188[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:21:12,278[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:21:17,355[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:21:21,437[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:21:26,526[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:21:30,607[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:21:35,697[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:21:39,772[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:21:44,862[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:21:48,944[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:21:54,034[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:21:58,115[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:22:03,205[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:22:07,297[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:22:12,385[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:45:28,902[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 04:45:33,952[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 04:45:38,000[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 07:07:15,842[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 07:07:20,933[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 07:07:24,994[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-24 07:07:30,073[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-02-24 07:08:30,709[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:31,746[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:32,776[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:33,810[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:34,846[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:35,879[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:36,914[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:37,948[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:38,967[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:39,994[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:41,026[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:42,058[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:43,095[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:44,118[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:45,155[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:53,319[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:54,346[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:55,382[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:56,410[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:57,424[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:58,463[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:08:59,498[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:00,521[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:10,649[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:11,686[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:12,724[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:13,757[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:14,796[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:23,379[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:09:52,808[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:58134/api/VerifyObjects/ValidateResourceOutAlt
+2023-02-24 07:10:40,031[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:41,067[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:42,096[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:43,124[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:44,150[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:45,178[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:46,211[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:47,246[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:48,278[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:49,312[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:50,339[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:51,360[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:52,378[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:53,416[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:10:54,446[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:11:08,873[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:09,924[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:10,958[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:11,998[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:13,034[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:14,070[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:15,109[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:16,152[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:17,184[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:18,241[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:19,290[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:20,338[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:21,386[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:22,422[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:11:28,273[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:07,991[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:09,040[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:10,080[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:11,119[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:12,172[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:13,218[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:14,248[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:15,287[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:16,322[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:17,373[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:18,425[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:19,471[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:20,518[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:21,567[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:22,615[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:23,647[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:50,136[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:51,172[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:52,223[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:53,274[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:54,322[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:55,358[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:12:57,575[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:20,063[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:21,090[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:22,126[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:23,165[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:24,197[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:25,221[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:26,257[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:27,291[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:28,327[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:29,364[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:30,394[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:31,428[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:32,450[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:33,490[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:34,523[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:35,562[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:36,599[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:13:55,980[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:13:57,028[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:13:58,068[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:13:59,110[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:00,154[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:01,205[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:02,252[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:03,284[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:04,322[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:05,370[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:06,411[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:07,450[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:08,499[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:09,548[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:10,585[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:11,623[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:23,864[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:24,908[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:25,955[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:27,010[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:28,053[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:29,079[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:30,117[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:31,158[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:32,202[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:33,247[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:34,289[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:35,341[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:36,387[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:37,420[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:38,456[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:14:39,502[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:15:17,378[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:29:04,743[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:05,770[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:06,805[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:07,825[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:08,850[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:09,883[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:10,921[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:11,949[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:12,966[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:13,997[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:15,029[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:29:16,048[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:08,983[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] debe esperar para procesar.", "Resultado": false}
+2023-02-24 07:30:10,017[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:11,025[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:12,069[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:13,095[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:14,133[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:15,157[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:16,189[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:17,233[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:18,256[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:19,296[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:20,322[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:21,345[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:48,849[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:49,872[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:50,897[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:51,915[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:52,934[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:53,949[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:54,980[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:55,998[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:57,036[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:58,070[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:30:59,102[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:31:00,123[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:31:01,148[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:31:02,164[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:31:03,180[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:31:04,198[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:41,236[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:42,256[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:43,279[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:44,297[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:45,319[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:46,345[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:47,360[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:48,380[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:49,397[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:50,420[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:32:51,442[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:52,460[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:53,481[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:54,503[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:32:55,532[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:07,777[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:33:08,800[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:09,825[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:10,840[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:11,869[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:12,886[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:13,916[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:14,942[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:15,964[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:16,984[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:18,018[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:33:19,048[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:20,064[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:21,090[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:22,102[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:33:23,134[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:20,354[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:36:21,389[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:22,413[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:23,447[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:24,480[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:25,500[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:26,516[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:27,532[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:28,559[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:29,583[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:30,623[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:36:31,651[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:32,682[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:33,702[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:34,732[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:36:35,766[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:01,468[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:02,499[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:03,528[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:04,548[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:05,569[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:06,600[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:07,614[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:08,644[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:09,663[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:10,691[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo no ha ingresado!", "Resultado": false}
+2023-02-24 07:37:11,717[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:12,730[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:13,750[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:14,784[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}
+2023-02-24 07:37:15,818[level-ERROR][root]:error verify:  card - OPN002 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El vehiculo [OPN002] registro no necesario.", "Resultado": false}

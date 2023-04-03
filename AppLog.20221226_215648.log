@@ -1,0 +1,3 @@
+2022-12-26 21:50:17,277[level-ERROR][root]:error verify:  {"Error": "*", "ErrorInterno": "*", "Mensaje": "El parquedero Parqueadero # [148] se encuentra ocupado.", "Resultado": false}
+2022-12-26 21:51:42,079[level-ERROR][root]:error verify:  F0383080A - BCF449 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El parquedero Parqueadero # [148] se encuentra ocupado.", "Resultado": false}
+2022-12-26 21:56:48,028[level-ERROR][root]:error verify:  F0383080A - BCF449 => {"Error": "*", "ErrorInterno": "*", "Mensaje": "El parquedero Parqueadero # [148] se encuentra ocupado.", "Resultado": false}

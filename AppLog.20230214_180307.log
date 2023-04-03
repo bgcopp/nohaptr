@@ -1,0 +1,4 @@
+2023-02-14 18:01:12,318[level-ERROR][root]:error: TCP CNX Could not find module 'C:\ed proteccion\OC\teko\NOHAPTR\plcommpro.dll' (or one of its dependencies). Try using the full path with constructor syntax.
+2023-02-14 18:02:50,676[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-14 18:03:03,042[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-02-14 18:03:07,083[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1

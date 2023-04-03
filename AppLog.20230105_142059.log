@@ -1,0 +1,1 @@
+2023-01-05 14:20:59,471[level-ERROR][root]:error: TCP CNX Unable to connect a device using connstr b'protocol=TCP,ipaddress=192.168.1.201,port=4370,timeout=4000,passwd='

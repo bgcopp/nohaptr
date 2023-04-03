@@ -1,0 +1,6 @@
+2023-01-23 11:22:22,155[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-01-23 11:23:00,536[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-01-23 11:28:55,247[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-01-23 11:29:47,678[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
+2023-01-23 11:30:24,681[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara2
+2023-01-23 11:30:56,400[level-ERROR][root]:error: consultando servicio camara. Servicio no disponible http://localhost:2030/service/lpr/Camara1
